@@ -1,4 +1,4 @@
-# 💼 Odoo Accounting Pro - Enterprise Double-Entry Financial Software
+#Accounting Pro - Enterprise Double-Entry Financial Software
 
 A comprehensive, full-featured enterprise accounting software suite inspired by **Odoo Accounting (Enterprise Edition)**. Built with high-performance modern web standards, GAAP/IFRS financial integrity, and zero complex external runtime dependencies.
 
@@ -6,7 +6,7 @@ A comprehensive, full-featured enterprise accounting software suite inspired by 
 
 ## 🌟 Key Highlights & Features
 
-### 1. 📊 Odoo Signature Accounting Overview & Dashboard
+### 1. 📊 Accounting Overview & Dashboard
 - **Live Financial Health KPIs:** Total Accounts Receivable (A/R), Total Accounts Payable (A/P), Cash & Bank Holdings, and Net Profit (YTD) with margin calculations.
 - **Dynamic Journal Kanban Cards:**
   - **Customer Invoices (`INV`)**: Invoices to validate (Draft), open unpaid invoices, overdue invoices, and 1-click invoice creation.
